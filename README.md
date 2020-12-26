@@ -1,0 +1,2 @@
+# Discord logbot
+WIP
